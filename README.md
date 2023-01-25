@@ -6,14 +6,11 @@
 About Me:
 
 - 💻 I’m an entry-level programmer.
-- 📚 I’m currently learning Django Framework.
+- 📚 I’m currently learning Kotlin .
 - 💙 My passion is learning.
 - 📈 I try to be better today than I was yesterday.
 
-![Django](https://img.shields.io/badge/-Django-11fca1??style=for-the-badge&logo=Django)&nbsp;
-![Python](https://img.shields.io/badge/-Python-ee0??style=for-the-badge&logo=python)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-fefefe??style=for-the-badge&logo=spring)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-ff0000??style=for-the-badge&logo=angular)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-fefefe??style=for-the-badge&logo=kotlin)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Html](https://img.shields.io/badge/-Html-fefefe??style=for-the-badge&logo=html5)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS-107cff??style=for-the-badge&logo=css3)&nbsp;
