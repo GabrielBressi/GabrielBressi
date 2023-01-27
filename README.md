@@ -8,6 +8,7 @@ About Me:
 - 💻 I am willing to learn and make everyday life easier through technology.
 - 📚 I’m currently learning Android Development.
 - 💙 My passion is learning.
+- 🖥️ UX/UI Enthusiast : [Behance/gabrieldasilv76](https://www.behance.net/gabrieldasilv76)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-fefefe??style=for-the-badge&logo=kotlin)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-fefefe??style=for-the-badge&logo=android)&nbsp;
