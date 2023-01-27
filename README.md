@@ -5,20 +5,19 @@
 -->
 About Me:
 
-- 💻 I’m an entry-level programmer.
-- 📚 I’m currently learning Kotlin .
+- 💻 I am willing to learn and make everyday life easier through technology.
+- 📚 I’m currently learning Android Development.
 - 💙 My passion is learning.
-- 📈 I try to be better today than I was yesterday.
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-fefefe??style=for-the-badge&logo=kotlin)&nbsp;
+![Android](https://img.shields.io/badge/-Android-fefefe??style=for-the-badge&logo=android)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Html](https://img.shields.io/badge/-Html-fefefe??style=for-the-badge&logo=html5)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS-107cff??style=for-the-badge&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-777??style=for-the-badge&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-100??style=for-the-badge&logo=git)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-1127ff??style=for-the-badge&logo=docker)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-010101??style=for-the-badge&logo=linux)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-222??style=for-the-badge&logo=mysql)&nbsp;
+
 
 
 
