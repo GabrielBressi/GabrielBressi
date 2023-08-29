@@ -5,13 +5,11 @@
 -->
 About Me:
 
-- 💻 I am willing to learn and make everyday life easier through technology.
-- 📚 I’m currently learning Android Development.
+- 💻 I am currently working as a backend developer, with Spring and SAP Commerce.
+- 📚 I’m currently working in a personal project with Spring and Angular.
 - 💙 My passion is learning.
 - 🖥️ UX/UI Enthusiast : [Behance/gabrieldasilv76](https://www.behance.net/gabrieldasilv76)
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-fefefe??style=for-the-badge&logo=kotlin)&nbsp;
-![Android](https://img.shields.io/badge/-Android-fefefe??style=for-the-badge&logo=android)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Html](https://img.shields.io/badge/-Html-fefefe??style=for-the-badge&logo=html5)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS-107cff??style=for-the-badge&logo=css3)&nbsp;
