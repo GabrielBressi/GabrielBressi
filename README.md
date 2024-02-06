@@ -5,12 +5,11 @@
 -->
 About Me:
 
-- 💻 I am currently working as a backend developer, with Spring and SAP Commerce.
-- 📚 I’m currently working in a personal project with Spring and Angular.
+- 💻 Back-end Developer | Java | Spring.
 - 💙 My passion is learning.
-- 🖥️ UX/UI Enthusiast : [Behance/gabrieldasilv76](https://www.behance.net/gabrieldasilv76)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-009900?style=for-the-badge&logo=spring&logoColor=green)&nbsp;
 ![Html](https://img.shields.io/badge/-Html-fefefe??style=for-the-badge&logo=html5)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS-107cff??style=for-the-badge&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-777??style=for-the-badge&logo=javascript)&nbsp;
