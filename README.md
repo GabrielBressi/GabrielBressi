@@ -3,7 +3,7 @@
 -->
 Hello there! 👋 I'm Gabriel!
 
-Currently, I'm a Java Software Engineer at Ernst & Young | EY, where I thrive in crafting innovative solutions. My main focus revolves around developing sophisticated RESTFul APIs, Cronjobs, Business Processes, and conducting rigorous Unit Tests. I'm well-versed in an array of technologies including Java, Spring Framework, Hibernate, JUnit, Mockito, SAP Commerce Cloud (Hybris), and more.
+Currently, I'm a Software Engineer at Accenture, where I thrive in crafting innovative solutions. My main focus revolves around developing sophisticated RESTFul APIs, Cronjobs, Business Processes, and conducting rigorous Unit Tests. I'm well-versed in an array of technologies including Java, Spring Framework, Hibernate, JUnit, Mockito, SAP Commerce Cloud (Hybris), and more.
 
 My passion lies in continuous learning and innovation. I'm committed to enhancing my skills and delivering robust solutions that make a real impact. If you're looking for someone who's dedicated, versatile, and always up for a challenge, you're in the right place! Feel free to explore my profile further.
 
